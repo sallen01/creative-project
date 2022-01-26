@@ -10,6 +10,10 @@
 .container-fluid {
   background-color: #E6DFD8;
 }
+.navbar-brand {
+  padding: 5px 15px;
+  border: 1px solid black;
+}
 .background-image {
   width: 100%;
   text-align: center;
@@ -37,6 +41,10 @@
   position: absolute;
   border-top: 2px solid black;
   border-bottom: 2px solid black;
+}
+.background-image a {
+  color: white;
+  text-shadow: none;
 }
 .background-margin{
   margin: 605px;
