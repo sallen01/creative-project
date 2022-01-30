@@ -61,6 +61,15 @@ h5 {
   background-color: #E6DFD8;
   margin-top: 20px;
 }
+.card-footer a {
+  color: black;
+}
+.card-footer a:visited {
+  color: gray;
+}
+.card-footer a:hover {
+  color: blue;
+}
 
 @media (max-width: 825px) {
   .background-image {
