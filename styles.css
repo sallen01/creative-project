@@ -15,6 +15,20 @@
   padding: 5px 15px;
   border: 1px solid black;
 }
+form {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  height: 40px;
+  padding-top: 15px;
+}
+label p {
+  padding-right: 5px;
+}
+.navbar-collapse {
+  display: flex;
+  justify-content: space-between;
+}
 .background-image {
   width: 100%;
   text-align: center;
